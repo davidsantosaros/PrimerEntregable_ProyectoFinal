@@ -41,12 +41,12 @@ https://github.com/davidsantosaros/PrimerEntregable_ProyectoFinal
 
 ###  sketch de la versión Escritorio. 
 
- ![aquí](version_desktop.jpg)
+ ![aquí](assets/img/version_desktop.jpg)
 
 
 ###  sketch de la versión Movil. 
 
- ![aquí](version_movil.jpg)
+ ![aquí](assets/img/version_movil.jpg)
 
 
 
